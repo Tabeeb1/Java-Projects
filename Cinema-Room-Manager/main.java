@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Cinema {
     static Scanner sc = new Scanner(System.in);
     public static void main(String[] args) {
-        // Write your code here
+        
         System.out.println("Enter the number of rows: ");
         int row = sc.nextInt();
         System.out.println("Enter the number of seats in each row: ");
