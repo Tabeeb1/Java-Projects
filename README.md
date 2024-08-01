@@ -1,3 +1,3 @@
 Different projects which is built solely using java
 
-To run this programs, simple copy the code and paste it on any java ide
+To run this programs, simply copy the code and paste it on any java ide
